@@ -1,0 +1,12 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "Simple Student Management API for Postman Lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
